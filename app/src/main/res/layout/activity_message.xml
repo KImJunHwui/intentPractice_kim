@@ -11,7 +11,7 @@
     tools:context=".MessageActivity">
 
     <TextView
-        android:id="@+id/receivedmessageTxt"
+        android:id="@+id/receivedMessageTxt"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="전달 받을 내용이 나올 자리"
